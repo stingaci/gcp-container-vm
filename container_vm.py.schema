@@ -21,7 +21,6 @@ required:
   - zone
   - containerImage
   - containerManifest
-  - serviceAccountEmail
 
 properties:
   zone:
